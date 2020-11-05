@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
 Hello, this is Ashish Mishra, having 3+ years of rich experience in web Development.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-Software Engineer ( Ruby on Rails developer) by profession, Entrepreneur by passion.
+**Software Engineer ( Ruby on Rails developer) by profession, Entrepreneur by passion.**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 -  Programming Languages : Ruby, Java(Basics), C++, C.  
