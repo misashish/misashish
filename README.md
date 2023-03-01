@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Ruby And Rails
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ashish-m-6197a2116/)
 
-Hello, this is Ashish Mishra, having 4+ years of rich experience in web Development.
+Hello, this is Ashish Mishra, having 6+ years of rich experience in web Development.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 **`Software Engineer ( Ruby on Rails developer) by profession, Entrepreneur by passion`**
 
